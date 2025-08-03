@@ -1,6 +1,6 @@
 # Deep Audio CNN - Deep Learning Sound Classification
 
-![Project Banner](images\s1.png)
+![Project Banner](images/s1.png)
 
 > A complete end-to-end audio classification system built with PyTorch, featuring a ResNet-style CNN architecture, interactive web dashboard, and serverless GPU inference.
 
@@ -11,13 +11,13 @@ This project implements a state-of-the-art audio classification system that can 
 ## 📸 Project Screenshots
 
 ### Predictions
-![Predictions](images\s2.png)
+![Predictions](images/s2.png)
 
 ### Spectrogram View
-![Spectrogram View](images\s3.png)
+![Spectrogram View](images/s3.png)
 
 ### Convolutional Layer Outputs
-![Convolutional Layer Outputs](images\s4.png)
+![Convolutional Layer Outputs](images/s4.png)
 
 ## ✨ Key Features
 
